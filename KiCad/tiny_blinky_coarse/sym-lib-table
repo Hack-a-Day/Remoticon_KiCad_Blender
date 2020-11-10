@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tiny_blinky-cache)(type Legacy)(uri ${KIPRJMOD}/tiny_blinky-cache.lib)(options "")(descr ""))
+  (lib (name tiny_blinky)(type Legacy)(uri ${KIPRJMOD}/tiny_blinky.lib)(options "")(descr ""))
+)

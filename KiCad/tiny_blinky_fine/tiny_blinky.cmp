@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu Jul 30 22:15:54 2020
+
+BeginCmp
+TimeStamp = 5F0FAC8A
+Path = /5EF97AD5/5EF98E9C
+Reference = BT1;
+ValeurCmp = 2xCR2032;
+IdModule  = tiny_blinky:BatteryHolder_Keystone_3024-2x2032;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F1CBE23
+Path = /5F1CB5ED
+Reference = SW1;
+ValeurCmp = SW;
+IdModule  = tiny_blinky:SW_PUSH_6mm_H5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F075BB6
+Path = /5F0752BD
+Reference = G2;
+ValeurCmp = LOGO_hackaday;
+IdModule  = tiny_blinky:logo_hackaday;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F075BAB
+Path = /5F075902
+Reference = G1;
+ValeurCmp = LOGO_skull;
+IdModule  = tiny_blinky:logo_skull;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FACBC
+Path = /5EF97AD5/5EF99604
+Reference = C1;
+ValeurCmp = 470uF/25V;
+IdModule  = tiny_blinky:CP_Radial_D8.0mm_P3.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAD64
+Path = /5EF97AD5/5EF99C7F
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = tiny_blinky:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAD76
+Path = /5EF82A25
+Reference = D1;
+ValeurCmp = WS2812B;
+IdModule  = tiny_blinky:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAD8C
+Path = /5EF83D10
+Reference = D2;
+ValeurCmp = WS2812B;
+IdModule  = tiny_blinky:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADA2
+Path = /5EF85216
+Reference = D3;
+ValeurCmp = WS2812B;
+IdModule  = tiny_blinky:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADB8
+Path = /5F070680
+Reference = H1;
+ValeurCmp = MountingHole_Pad;
+IdModule  = tiny_blinky:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADC7
+Path = /5F070F04
+Reference = H2;
+ValeurCmp = MountingHole_Pad;
+IdModule  = tiny_blinky:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADD6
+Path = /5F072039
+Reference = H3;
+ValeurCmp = MountingHole_Pad;
+IdModule  = tiny_blinky:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADE5
+Path = /5F07204D
+Reference = H4;
+ValeurCmp = MountingHole_Pad;
+IdModule  = tiny_blinky:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FADF4
+Path = /5EF8AA1E
+Reference = J1;
+ValeurCmp = Dout;
+IdModule  = tiny_blinky:PinSocket_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE0B
+Path = /5EF93671
+Reference = J2;
+ValeurCmp = SPI;
+IdModule  = tiny_blinky:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE27
+Path = /5EF97AD5/5EF98160
+Reference = J3;
+ValeurCmp = Vin;
+IdModule  = tiny_blinky:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE3D
+Path = /5EF97AD5/5EF9A868
+Reference = J4;
+ValeurCmp = 5V;
+IdModule  = tiny_blinky:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE53
+Path = /5EF7DAFE
+Reference = R1;
+ValeurCmp = 330E;
+IdModule  = tiny_blinky:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE69
+Path = /5EF7D93E
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = tiny_blinky:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAE9D
+Path = /5EF786CF
+Reference = U1;
+ValeurCmp = ATtiny85-20PU;
+IdModule  = tiny_blinky:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F0FAEB8
+Path = /5EF97AD5/5EF7AA98
+Reference = U2;
+ValeurCmp = AP1117-50;
+IdModule  = tiny_blinky:SOT-223-3_TabPin2;
+EndCmp
+
+EndListe
